@@ -10,9 +10,13 @@ El proyecto **ASCIIz** es una herramienta de línea de comandos que permite desc
 
 **Comenzar con el proyecto:**
 
+Instrucciones para usar ASCIIz:
+
 1. Clona el repositorio: `git clone https://github.com/Wenncito/ASCIIz.git`
 2. Asegúrate de tener `7zip` instalado en tu sistema.
-3. Ejecuta el script: `bash ASCIIz.sh`
+3. Entra al Directorio ASCIIz.
+4. Entra al archivo ASCIIz con nano y reemplaza "Archivo_a_descomprimir" por el nombre del archivo que quieras descomprimir manteniendo las comillas dobles.
+5. Ejecuta el script: `bash ASCIIz.sh`
 
 **Ayuda y Soporte:**
 
